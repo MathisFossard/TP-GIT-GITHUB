@@ -5,3 +5,5 @@ sauce
 salade
 tomate
 oignon
+sauce
+frites
