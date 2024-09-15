@@ -4,5 +4,4 @@ steak
 fromage
 oignon
 salade
-sauce
 pain
