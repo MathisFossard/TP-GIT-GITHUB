@@ -1,5 +1,5 @@
 galette
-viande
+poulet
 sauce
 frites
 galette
